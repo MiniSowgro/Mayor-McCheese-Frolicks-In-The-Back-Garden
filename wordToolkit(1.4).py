@@ -58,7 +58,7 @@ def readTypeTime(userString):
     print(
         f"Your sentence will take {speakTimeMins} minutes to speak, or {speakTimeSecs} seconds (Based on the average speaking time of 150 words per minute)!")
     print(
-        f"Your sentence will take {typeTimeMins} minutes to type, or {typeTimeSecs} (Based on the average typing time of 50 words per minute)!")
+        f"Your sentence will take {typeTimeMins} minutes to type, or {typeTimeSecs} seconds (Based on the average typing time of 50 words per minute)!")
     print("")
 
 def charCount(userString):
